@@ -1,0 +1,405 @@
+ab esme 1st row dekho...
+jaise vo show kr rha h ki actual m fraud hua,,,,
+
+
+320+ 43 totol fraud hui usme se 320 sahi detect hui baaki 43 actual m thai
+par model m galat bta diya mtlb ki unko bol diya ki ye fraud nhi h
+
+to mujhe lgta h apn to FN kam krna h
+
+
+tum btao
+
+
+m apna wala project dikhata hon... usme 4-5 techniques hai 
+
+Ok??yo
+
+
+esme dataset alag hai
+par techniques same hongi 
+
+yes??
+ok 
+
+
+phle conclusion dekh lo
+
+
+3 techniques 
+
+
+Over Sampling with Random Forest
+Random Forest with GridSearchCV
+SMOTETomek
+
+apn sabhi try krte hai abbb
+
+
+ok??
+
+
+ok
+
+dekho isme kfold ek overfitting technique maan lo
+
+abhi apn logistic reg use kring or kflod apply kring
+with diff hyper parameters
+
+ye fix hote h bas values change kr skte h apn
+
+
+
+
+
+
+gridsearch best parameter select krke deta h 
+jaise maan lo maine penalty ki l1 and l2 liye
+to ye bta dega ki konsa better h
+
+
+
+
+esne to bohot chutiya bna diya
+bolo??
+hng   
+
+ab next try krte hai
+
+
+
+ye thoda sahi h... 
+esme kuch hyperparameter tuning krte hai
+ok
+ok
+
+ye sab hyperpara hai RF algo k
+pta h??
+hng
+nice :)
+
+
+
+ [[6134  391]
+ [1211  664]]
+
+
+
+jyda fark nhi pda na
+no
+ye aise hi krte h beginners
+:(
+
+ji hum bhi aise hikrte hihihihih
+hmm bhi
+
+--- over ---
+[[5933  592]
+ [1032  843]]
+
+
+
+i think ... ye eska best hai... hahha
+hm
+
+ye file m tumko bhej dunga baad m... tum khelna 
+eske saath
+
+j sir
+
+
+
+under sampling kya krta h
+
+ye jyda wale label rows (0) wali to kam krta h
+
+ye technique bekar hoti hai 
+
+
+
+
+ye dekhlo tum... error 1 kitna jyda ho gya
+hn
+
+eska use jab krte hai jab aapka dataset bohot large ho
+okk??
+
+okk
+vaise isko use kam hi lete hai
+
+ok
+
+next
+
+ye kam wale lebal (1) wali rows ko increase krta h
+
+ye technique acchi hoti hai 
+
+
+yes// ok
+wait
+ye dekho na
+hn hn smjhi
+ok ok 
+
+
+ye to RF se bhi bekar nikli na??ji
+
+
+
+ye dono kaam krti hai
+ kam walo ko jyada aur jyda walo ko kam
+
+ahhahaha
+samjhi??
+
+hn
+
+0 wali kam ki aur 1 wali increase
+
+jabki under aur over m single hi hui
+
+right??
+absolutely
+
+
+
+
+
+
+ye over se bhi bekar h bc
+
+???
+lolzzzzzzzzzzzzzzzzzzzzz
+
+ye thoda game changer hai 
+kyunki esme kya bolte yr usko
+TN
+
+yes TN
+TN bhi jyda aa rha aur recall bhi 
+ye apn recall aur precision se bhi dekh skte hai
+
+
+
+------
+
+nhi nhi nhi 
+error 1 jyda aa rha h bc 
+
+--------
+to mujhe lgta h
+1. RF
+2. over sampling
+3. Easy Ensemble
+
+
+
+
+ab apne ko ye idea lag gya ki kon kon se algos 
+achhi hai
+
+ab apn RF and OS par hi focus kriinge
+
+ok
+
+ye sab tum PPT m mention krna
+kya approch thi
+
+kaise algos li
+
+Ok??
+
+okkk
+
+
+M kal ML k notes bhej dunga
+shayd kuch faayda ho jaaye
+
+acha tum mujhe ye notepad file bhi bhejna okk
+ok maam sure
+thnku sir
+
+bs bs 
+
+pehli baar kisi ne aise type kr kr ke itna acha smjhaya bc
+arey kuch bhi
+
+arey sch mein itna timekoi ni invest krta
+pagal ho tum yr ----tumse kum hun
+hahaha  
+
+acha main 5min mein ayi..baba g ko sulana hai
+okok ok ok
+:)
+:)
+
+m backkkkkkkkkkkkkkkkkkkk
+
+okkk 
+
+
+
+ek baar SVM bhi dekhle
+ok
+
+kitna time le rha ye to
+tum power bi install kr lena aur tableau bhi
+agr koi nhi chale to mere par kr lena
+
+okkkk
+tabtleau to download kiya huya h haina
+power BI konsa krun bta dena
+
+app store se kr lena... m btata hon
+
+
+https://www.microsoft.com/store/productId/9NTXR16HNW1T
+
+aise kar lena
+aise kaise bc
+net hi ni chla
+
+ye svm to mar gya bc
+
+
+lolzzzzzzzzzz
+
+
+wait krte hai...
+
+power bi ka pta chl gya na?
+?
+nooooooooooooooooooooooooooooooooooooooooooo
+
+app store open krke power bi desktop search 
+krna hia 
+
+ya to app store se kr lena 
+i think 450 mb ka hona chahiye
+
+ya fir 
+app store se hi hoga g 
+
+chngaaaaaaaaaa g
+han gggg
+m DAX dekh rha
+kuch samjh nhi aa rha tha
+practice krna hi pdegi
+ahahahhahahahahaha
+
+
+han ggg
+
+
+
+aj boht pd liya bc hahhahah
+acha ??
+vaise tumko ye sab phle se aata bc 
+nhi nhiii sb nhi ata tha kuch kuch pta tha
+
+to fir aise khudko demotiavte kyu krti ho pgl
+
+practice krna h buss tumko 
+tumko aata hi buss practice kro
+main bhi krunga yr
+
+ hm yrrrrrrrrrrrrrrrrrrrr
+ek to bc confidence ki boht kami h mujhme
+market se le aao 
+
+kuttaaaaaaaaaaaaaaaaaaaaaa
+pagallllllllllllllllllll
+cutieeeee pandaaaaaaa :)
+happpppp
+ye svmnhi chlne wala aj
+
+
+
+han bc... nikalo isko hahaha hihih
+m ye file bhej dunga 
+ok
+kya kuch krna h to btao
+
+
+
+
+
+
+
+
+mtlb?
+mujhe lga tum scroll kr rhi to m help kr deta
+aisa
+
+um nhi nhi
+ok
+aur btao esme kuch 
+or pta ni
+m file bhej deta hon ....
+
+
+hn bhej do
+ahn
+
+
+zip zar hai??
+
+
+
+
+
+
+aise hi kringe bc 
+mja aata hai
+
+aisa lgta h saath m pd rhe ho
+
+heina??
+hn sahi mein
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
