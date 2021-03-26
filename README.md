@@ -3,7 +3,11 @@ This is a Machine Learning Classification project which aims to bridge the gap o
 
 Major steps involved are:
 
-a) Collecting the data(in csv format)                                                                                                      b) Data Cleaning- Checking for zero and nulls and then replace them with their respective values(Mean,median ,mode)                        c) Handling the missing values                                                                                                              d) Handling the outliers -using Boxplot , standardization and normalization , IQR                                                         e) Applied ML algorithms to building the model                                                                                                                                                       
+a) Collecting the data(in csv format)       
+b) Data Cleaning- Checking for zero and nulls and then replace them with their respective values(Mean,median ,mode)           
+c) Handling the missing values  
+d) Handling the outliers -using Boxplot , standardization and normalization , IQR    
+e) Applied ML algorithms to building the model               
 f) Hyper parameter Tuning - Parameters passed in ML algorithms in order to improve the accuracy like n_estimator, random_state
 
 Algorithms used to building the model are: 
