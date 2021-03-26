@@ -13,13 +13,9 @@ f) Hyper parameter Tuning - Parameters passed in ML algorithms in order to impro
 Algorithms used to building the model are: 
 
 a) Gaussian Naive Bayes
-
 b) Logistic Regression 
-
 c) K-NN
-
 d) Decision Tree
-
 e) Random Forest
 
 After doing all the train /CV test , the datset gave us the highest F1- score is scaled with gaussian Naive Bayes taking lead at 0.518.
